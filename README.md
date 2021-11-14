@@ -9,12 +9,12 @@ The Datasets used for this project:
 1. Human Dataset: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 2. Dog Dataset: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
-# Methodology
+# Methodology/Framework
 Pytorch
-Convolutional Neural Networks (CNN)
-Data Augmentation
-OpenCV pre-trained face detectors (haarcascades & lbpcascade)
-Pre-trained VGG-16 convolutional network
+Convolutional Neural Networks (CNN), 
+Data Augmentation, 
+OpenCV pre-trained face detectors (haarcascades & lbpcascade), 
+Pre-trained VGG-16 convolutional network, 
 Transfer Learning 
 
 # Results from Models Trained
